@@ -1,6 +1,6 @@
 <?php
 //Saya mengedit file ini
-//oleh Adhi Ginanjar lagi
+//oleh Adhi Ginanjar lagii
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
